@@ -19,8 +19,8 @@
                 "height": 80
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 214,
+                "y": 56
               },
               "angle": 0,
               "id": "86264504-e5ed-4d89-9adc-1f3c07f20d6e",
@@ -32,6 +32,32 @@
                 },
                 "text": {
                   "text": "actor 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 150
+              },
+              "angle": 0,
+              "id": "f6ed7538-858b-4967-896a-81cc098c1b5a",
+              "z": 1,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Copy of actor 0"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
